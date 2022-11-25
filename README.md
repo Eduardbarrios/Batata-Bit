@@ -4,4 +4,5 @@
 Uno de los mayores retos fue que todo el proyecto estab previamente diseñado en la plataforma Figma, por lo que debíamos poner en practica todos nuestros conocimientos para llegar a al resultado deseado.*
 
 ver en: [Batata-bit](https://eduardbarrios.github.io/Batata-Bit/ "Batata-bit")
+
 **NOTA : El proyecto apesar de tener responsive desing está optimizado para la vista mobile.**
